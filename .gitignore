@@ -40,4 +40,4 @@ ENV/
 *.m4a
 
 # Logs
-*.log 
+*.log .venv
